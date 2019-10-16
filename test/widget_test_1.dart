@@ -13,6 +13,6 @@ void main() {
   testWidgets('Checking if hello world shows up - show or not', (WidgetTester tester) async {
     // Build our app and trigger a frame.
     await tester.pumpWidget(MyApp());
-    expect(find.text('Hello World!'), findsOneWidget);
+    expect(find.text('Hello Worl2222d!'), findsOneWidget);
   });
 }
