@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:firstflutter/config/Palette.dart';
 import 'package:intl/intl.dart';
+import 'package:firstflutter/config/Palette.dart';
 
 class ChatItemWidget extends StatelessWidget{
   var index;
